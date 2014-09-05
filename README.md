@@ -1,10 +1,10 @@
 #How to use
 
-##Capturer
-This simple script copy the matched url string to the osx clipboard
+###capturer.py
+This simple script copy the matched url string to the clipboard (mitmproxy-git and OSX required)
 
 ``
 mitmproxy -s capturer.py
 ``
 
-Note: mitmproxy-git and OSX required 
+
