@@ -1,4 +1,4 @@
-mitmproxyscripts
-================
-
-Useful little things!
+#How to use
+``
+mitmproxy -s capturer.py
+``
