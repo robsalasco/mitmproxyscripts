@@ -4,4 +4,4 @@
 mitmproxy -s capturer.py
 ``
 
-Note: OSX Only and mitmproxy-git
+Note: mitmproxy-git and OSX required 
