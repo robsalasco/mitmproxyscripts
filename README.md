@@ -1,7 +1,7 @@
 #How to use
 
-Note: OSX Only
-
 ``
 mitmproxy -s capturer.py
 ``
+
+Note: OSX Only and mitmproxy-git
